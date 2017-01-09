@@ -6,7 +6,7 @@ Goals
 
 * Sync two Document Stores
 * Track the sync metrics and statuses at the level of an individual Document
-* Handle Failures (Network failure, System crash et el)
+* Handle Failures (Network failure, System crash et al)
 * Support recurring schedules for the ETL piplines
 
 ## License
